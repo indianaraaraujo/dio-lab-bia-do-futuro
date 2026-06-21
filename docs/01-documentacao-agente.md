@@ -33,6 +33,7 @@ Scorea
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
+
 Acessivel e didatico
 
 ### Exemplos de Linguagem
