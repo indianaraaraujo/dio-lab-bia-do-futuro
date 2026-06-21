@@ -2,15 +2,15 @@
 
 ## Caso de Uso
 
-### Problema
+### Problemaa
 > Qual problema financeiro seu agente resolve?
 
-Muitas pessoas têm dificuldade em controlar seus gastos, planejar seu orçamento e identificar hábitos financeiros que prejudicam sua saúde financeira.
+Muitas pessoas têm dificuldade em enteder conceitos básicos de finanças pessoais, como reserva de emergêcia, tipos de investimentos e como organizar seus gastos. 
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-Desenvolver um assistente virtual para ajudar usuários no controle de gastos e planejamento de orçamento, permitindo registrar despesas, organizar gastos por categoria, gerar análises simples sobre consumo, emitir alertas quando o orçamento estiver próximo do limite e oferecer recomendações básicas com base nos hábitos financeiros do usuário.
+Um agente educativo que explica conceitos financeiros de forma simples, usando os dados do próprio cliente como exemplo prático, mas sem dar recomendação de investimento
 
 ### Público-Alvo
 > Quem vai usar esse agente?
